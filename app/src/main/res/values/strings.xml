@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">ShubhamCurrencyConverterApp</string>
+    <string name="currency_converter">Currency Converter</string>
+    <string name="current_time">Current Time</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="result_amount">Result</string>
+    <string name="convert_currency">Convert</string>
+    <string name="language">Language</string>
+    <string name="currencyConvertImage" translatable="false">currencyconvertImage</string>
+
+    <string-array name="currency">
+        <item>AUD</item>
+        <item>AED</item>
+        <item>INR</item>
+        <item>NZD</item>
+        <item>USD</item>
+        <item>EUR</item>
+        <item>CAD</item>
+        <item>JPY</item>
+        <item>HKD</item>
+        <item>GBP</item>
+    </string-array>
+
+    <string-array name="currency1">
+        <item>EUR</item>
+        <item>INR</item>
+        <item>NZD</item>
+        <item>USD</item>
+        <item>AED</item>
+        <item>CAD</item>
+        <item>AUD</item>
+        <item>JPY</item>
+        <item>HKD</item>
+        <item>GBP</item>
+    </string-array>
+
+    <string-array name="lan">
+        <item>EN</item>
+        <item>HI</item>
+        <item>FR</item>
+        <item>VI</item>
+        <item>ES</item>
+        <item>IT</item>
+    </string-array>
+
+</resources>

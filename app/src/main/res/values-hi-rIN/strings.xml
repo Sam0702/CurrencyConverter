@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"शुभम करेंसी कनवर्टर ऐप "</string>
+    <string name="currency_converter">मुद्रा परिवर्तक</string>
+    <string name="enter_amount">"राशी डालें "</string>
+    <string name="result_amount">परिणाम</string>
+    <string name="convert_currency">"धर्मांतरित "</string>
+    <string name="language">भाषा</string>
+    <string name="current_time" translatable="false">"वर्तमान समय "</string>
+    <string name="currencyConvertImage">मुद्रा बदलेंछवि</string>
+</resources>

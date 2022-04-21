@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ShubhamCurrencyConverterApp</string>
+    <string name="currency_converter">"Convertisseur de devises "</string>
+    <string name="enter_amount">Entrer le montant</string>
+    <string name="result_amount">Résultat</string>
+    <string name="convert_currency">Convertir</string>
+    <string name="language">Langue</string>
+    <string name="current_time">Heure actuelle</string>
+    <string name="currencyConvertImage" translatable="false">conversion de deviseImage</string>
+</resources>

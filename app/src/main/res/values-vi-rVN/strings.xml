@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ShubhamCurrencyConverterApp</string>
+    <string name="currency_converter">Chuyển đổi tiền tệ</string>
+    <string name="current_time">Thời điểm hiện tại</string>
+    <string name="enter_amount">Nhập số tiền</string>
+    <string name="result_amount">Kết quả</string>
+    <string name="convert_currency">Chuyển thành</string>
+    <string name="language">Ngôn ngữ</string>
+</resources>

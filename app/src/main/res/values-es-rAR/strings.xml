@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ShubhamCurrencyConverterApp</string>
+    <string name="currency_converter">Convertidor de moneda</string>
+    <string name="enter_amount">Ingrese la cantidad</string>
+    <string name="result_amount">Resultado</string>
+    <string name="convert_currency">Convertir</string>
+    <string name="language">Idioma</string>
+    <string name="current_time" translatable="false">Tiempo actual</string>
+</resources>
